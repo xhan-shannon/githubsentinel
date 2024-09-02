@@ -1,0 +1,10 @@
+{
+    "github_repo": "https://github.com/langchain-ai/langchain",
+    "email_sender": "github-sentinel@your-company.com",
+    "email_recipients": ["team@your-company.com"],
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "smtp_user": "your-email@gmail.com",
+    "smtp_password": "your-password",
+    "github_token": "your_github_token"
+}

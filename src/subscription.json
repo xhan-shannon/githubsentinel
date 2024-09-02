@@ -1,0 +1,14 @@
+{
+    "subscriptions": [
+        {
+            "repo": "https://github.com/langchain-ai/langchain",
+            "enabled": true,
+            "notify_on_release": true
+        },
+        {
+            "repo": "https://github.com/another-user/another-repo",
+            "enabled": true,
+            "notify_on_release": false
+        }
+    ]
+}
